@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @cesar23131
+- 👋 Hi, I’m Cesar
+- 
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning c++ game engine
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me twitter.com/thegamingbros04
 
